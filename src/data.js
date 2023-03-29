@@ -2,6 +2,7 @@ import myImage from "../src/images/img2.png";
 import my2Image from "../src/images/img1.jpg";
 import my3Image from "../src/images/img3.jpg";
 import star from "../src/images/star.png";
+import my22Image from "../src/images/img22.jpg"
 let data = [
     {
         id : 1,
@@ -36,7 +37,7 @@ let data = [
         title : "Life lesson with Katie Zaferes",
         description :"Thoughtout my career, many of my highest moments came only after many losses",
         price : 50,
-        coverImg : my3Image,
+        coverImg : my22Image,
         star : star,
         stats : {
             rating : 5.0 ,
