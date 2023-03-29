@@ -2,8 +2,6 @@ import myImage from "../src/images/img2.png";
 import my2Image from "../src/images/img1.jpg";
 import my3Image from "../src/images/img3.jpg";
 import star from "../src/images/star.png";
-
-
 export default [
     {
         id : 1,
