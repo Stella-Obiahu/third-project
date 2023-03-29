@@ -2,7 +2,7 @@ import myImage from "../src/images/img2.png";
 import my2Image from "../src/images/img1.jpg";
 import my3Image from "../src/images/img3.jpg";
 import star from "../src/images/star.png";
-export default [
+let data = [
     {
         id : 1,
         title : "Life lesson with Katie Zaferes",
@@ -46,3 +46,4 @@ export default [
         openSpots : 45,
     }
 ]
+export default data
